@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - MBCircularProgressBar (0.3.5)
+  - MKMagneticProgress (1.4)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SwiftyJSON (3.0.0)
+  - YouTubePlayer-Swift (1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - MBCircularProgressBar
+  - MKMagneticProgress
+  - SDWebImage
+  - SwiftyJSON (= 3.0)
+  - YouTubePlayer-Swift (~> 1.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MBCircularProgressBar
+    - MKMagneticProgress
+    - SDWebImage
+    - SwiftyJSON
+    - YouTubePlayer-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  MKMagneticProgress: 006b8c763d62986661bcde03794a3dcf56cd084a
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+  YouTubePlayer-Swift: ae82f4bcb504162a872b852596a9dc1fa3828c34
+
+PODFILE CHECKSUM: 23509dea808103e51290168dd03d2fd69d441bd4
+
+COCOAPODS: 1.9.0
